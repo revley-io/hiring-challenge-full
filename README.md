@@ -11,17 +11,20 @@ The objective is to simulate day-to-day work at Revley: interpreting loosely def
 ## Checkout
 Standalone application where customers provide their billing information, optionally choose subscription, and checkout.
 
-<img width="1334" height="772" alt="image" src="https://github.com/user-attachments/assets/fb283218-a5db-4238-86c7-8667d9477200" />
+<img width="1338" height="743" alt="image" src="https://github.com/user-attachments/assets/777d3c6f-04d1-4f15-8605-5ff22698a5e8" />
+
 
 ## Merchant Portal
 Dashboard for merchants to monitor store transactions, subscriptions, and configure settings & processors.
 
-<img width="1451" height="595" alt="image" src="https://github.com/user-attachments/assets/43fff8ad-b2a1-443d-bfb1-0423e0b0346b" />
+<img width="1181" height="510" alt="image" src="https://github.com/user-attachments/assets/03f9ab0b-d062-4b35-a7fd-6231bb998f2d" />
+
 
 ## Subscription Service
-Backend REST API which handles checkouts, merchant portal queries, and payment processing.
+Backend REST API which handles checkouts, merchant portal queries, and payment processing. Swagger docs for testing APIs.
 
-<img width="1817" height="942" alt="image" src="https://github.com/user-attachments/assets/228e0a18-50cc-4cb2-a405-59d32753ab70" />
+<img width="1803" height="825" alt="image" src="https://github.com/user-attachments/assets/8dc703dd-14ba-42b8-9572-4f1ead17730f" />
+
 
 ## Process
 
